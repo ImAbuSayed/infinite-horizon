@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/infinite-horizon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Infinite Horizon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/infinite-horizon/) |
+| **Get License** | [Request Licensing for Infinite Horizon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/infinite-horizon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can see the fire dancing in the dark
+> One little touch and you are lighting the spark
+> You are pulling me closer without a sound
+> With every single breath, my defenses fall down
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
